@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang ="en">
+<head>
+<meta charset = "utf-8">
+<title>unordered list</title></head>
+<h1>unordered lists</h1>
+<div>
+favorite list of dinner ideas
+<ul>
+<li>cacao</li>
+<li>milk</li>
+<li>cookies
+<ul>
+<li>chocolate</li>
+<li>sugar</li>
+<li>peanut butter</li>
+</ul>
+</li>
+<li>pepto bismol</li>
+</ul>
+</div>
+</html>
